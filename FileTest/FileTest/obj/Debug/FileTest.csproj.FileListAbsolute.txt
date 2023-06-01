@@ -1,0 +1,16 @@
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\FileTest.csproj.AssemblyReference.cache
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\FileTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\MainWindow.g.cs
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\App.g.cs
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\FileTest_MarkupCompile.cache
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\FileTest_MarkupCompile.lref
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\bin\Debug\FileTest.exe.config
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\bin\Debug\FileTest.exe
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\bin\Debug\FileTest.pdb
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\MainWindow.baml
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\FileTest.g.resources
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\FileTest.Properties.Resources.resources
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\FileTest.csproj.GenerateResource.cache
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\FileTest.csproj.CoreCompileInputs.cache
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\FileTest.exe
+C:\Users\kristiyana.za\source\repos\FileTest\FileTest\obj\Debug\FileTest.pdb
